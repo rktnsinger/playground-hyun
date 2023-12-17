@@ -1,0 +1,16 @@
+{
+  "name": "playground-astro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Hyun",
+  "dependencies": {
+    "astro": "^4.0.3"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  }
+}
